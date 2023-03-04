@@ -1,0 +1,9 @@
+.resources__logo {
+  height: 30px;
+  width: 270px;
+  transition: 0.2s;
+}
+
+.resources__logo:hover .resources__icon {
+  fill: #2f80ed;
+}
